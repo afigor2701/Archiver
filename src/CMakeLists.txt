@@ -1,0 +1,10 @@
+add_executable(
+        archiver
+        archiver.cpp
+        archiver_class.cpp
+        file_stream.cpp
+        manager.cpp
+        parser_command_line.cpp
+        program_exception.cpp
+        trie.cpp
+)
